@@ -42,6 +42,8 @@
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=fff"/>
+  
 </div>
 
 ### Stats
