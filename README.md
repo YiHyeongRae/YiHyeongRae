@@ -1,5 +1,23 @@
 <div align="center">
 
+### Contact 
+<a href="https://hr-devlog.vercel.app/">
+    <img 
+        src="http://img.shields.io/badge/Hr.devlog-000000?style=for-the-badge&logo=Vercel&logoColor=fff&link=https://hr-devlog.vercel.app/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.instagram.com/yi.hyeorae/">
+    <img 
+        src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/yi.hyeorae/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="mailto:dev.yihr@gmail.com">
+ <img src="https://img.shields.io/badge/dev.yihr@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/>
+</a>
+
+
+#
+
 ### FrontEnd
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff"/>
@@ -64,22 +82,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHyeongRae&layout=compact&theme=tokyonight)
 
-#
-  
-### Contact
-  
-  
-<a href="https://www.instagram.com/yi.hyeorae/">
-    <img 
-        src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/yi.hyeorae/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- 
-<a href="mailto:dev.yihr@gmail.com">
- <img src="https://img.shields.io/badge/dev.yihr@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/>
-</a>
 </div>
-
 
 
 
