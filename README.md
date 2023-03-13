@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=Axios&logoColor=fff"/>
 </div>
-
+  
+#
+  
 ### BackEnd
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff"/>
@@ -20,10 +22,14 @@
 <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=fff"/>
 </div>
 
+#
+
 ### Deploy
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=fff"/>
 </div>
+
+#
 
 ### Environment
 <div style="display:flex;">
@@ -33,10 +39,14 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=fff"/>
 </div>
 
+#
+
 ### Design
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=fff"/>
 </div>
+
+#
 
 ### Communication
 <div style="display:flex;">
@@ -46,13 +56,24 @@
   
 </div>
 
+#
+
 ### Stats
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YiHyeongRae&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHyeongRae&layout=compact&theme=tokyonight)
 
-
+#
+  
+### Contact
+  
+  
+<a href="https://www.instagram.com/yi.hyeorae/">
+    <img 
+        src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/yi.hyeorae/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
 
 
