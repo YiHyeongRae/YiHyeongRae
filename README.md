@@ -74,6 +74,10 @@
         src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/yi.hyeorae/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+ 
+<a href="mailto:dev.yihr@gmail.com">
+ <img src="https://img.shields.io/badge/dev.yihr@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/>
+</a>
 </div>
 
 
