@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">
 
 ### FrontEnd
 <div style="display:flex;">
@@ -44,13 +44,14 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=fff"/>
 </div>
 
+### Stats
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YiHyeongRae&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHyeongRae&layout=compact&theme=tokyonight)
 
 
-
-
-
-
-
+</div>
 
 
 
