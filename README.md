@@ -1,11 +1,13 @@
 <div align="center">
 
 ### Contact 
+<!--
 <a href="https://hr-devlog.vercel.app/">
     <img 
         src="http://img.shields.io/badge/Hr.devlog-000000?style=for-the-badge&logo=Vercel&logoColor=fff&link=https://hr-devlog.vercel.app/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+-->
 <a href="https://www.instagram.com/yi.hyeorae/">
     <img 
         src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/yi.hyeorae/"
